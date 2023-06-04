@@ -1,0 +1,52 @@
+.single-appiled-job {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  height: 300px;
+  padding: 20px;
+  margin: 30px;
+  border: 1px solid rgb(126, 144, 254, 0.3);
+  border-radius: 8px;
+}
+.single-appiled-job h3 {
+  color: #474747;
+  font-weight: 700;
+  font-size: 24px;
+}
+.single-appiled-job h4 {
+  color: #757575;
+  font-weight: 600;
+  font-size: 20px;
+}
+.grid-item {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center;
+}
+
+/* media query */
+@media screen and (max-width: 576px) {
+  .single-appiled-job {
+    display: grid;
+    grid-template-columns: auto;
+    height: 100%;
+    padding: 20px;
+    margin: 30px;
+    border: 1px solid rgb(126, 144, 254, 0.3);
+    border-radius: 8px;
+  }
+  .grid-item {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  .job-btn {
+    display: flex;
+    justify-content: space-around;
+  }
+  .job-location-salary {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+  }
+}

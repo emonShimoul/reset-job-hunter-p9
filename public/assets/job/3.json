@@ -1,0 +1,19 @@
+{
+  "id": 3,
+  "company_logo": "https://i.ibb.co/LQQRmq0/microsoft.png",
+  "company_name": "Microsoft",
+  "job_title": "Graphics Designer",
+  "job_place": "On Site",
+  "location": "Canada",
+  "job_type": "Full Time",
+  "salary": "100K - 150K",
+  "job_description": "The Graphic Designer job description includes the entire process of defining requirements, visualizing and creating graphics including illustrations, logos, layouts and photos. You'll be the one to shape the visual aspects of websites, books, magazines, product packaging, exhibitions and more. Your graphics should capture the attention of those who see them and communicate the right message. For this, you need to have a creative flair and a strong ability to translate requirements into design. If you can communicate well and work methodically as part of a team, we'd like to meet you.",
+  "job_responsibility": "Study design briefs and determine requirements Schedule projects and define budget constraints Conceptualize visuals based on requirements Prepare rough drafts and present ideas Develop illustrations, logos and other designs using software or by hand Use the appropriate colors and layouts for each graphic Work with copywriters and creative director to produce final design Test graphics across various media Amend designs after feedback Ensure final graphics and layouts are visually appealing and on-brand.",
+  "educational_requirements": "Bachelor's degree in Computer Science or related field",
+  "experiences": "7+ years of experience in graphics designer",
+  "contact_info": {
+    "phone": "01687-111111",
+    "email": "info@microsoft.com",
+    "address": "Canada"
+  }
+}

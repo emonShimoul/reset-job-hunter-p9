@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "company_logo": "https://i.ibb.co/VvV24jr/careerhub.png",
+  "company_name": "Career Hub",
+  "job_title": "Software Engineer",
+  "job_place": "On Site",
+  "location": "USA",
+  "job_type": "Full Time",
+  "salary": "100K - 150K",
+  "job_description": "We are looking for a skilled software engineer who, along with our excellent software development team, will be responsible for working on projects that are currently being developed on by our company. Duties will include but are not limited to developing and directing software system validation and testing methods, as well as directing our software programming initiatives. You will also be working closely with clients and cross-functional departments to communicate project statuses and proposals.",
+  "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+  "educational_requirements": "Bachelor's degree in Computer Science or related field",
+  "experiences": "10+ years of experience in software engineering",
+  "contact_info": {
+    "phone": "01687-000000",
+    "email": "info@careerhub.com",
+    "address": "USA"
+  }
+}

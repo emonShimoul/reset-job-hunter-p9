@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "company_logo": "https://i.ibb.co/mtdnnwh/tesla.png",
+  "company_name": "Tesla",
+  "job_title": "Marketing Officer",
+  "job_place": "On Site",
+  "location": "Dhaka",
+  "job_type": "Full Time",
+  "salary": "100K - 150K",
+  "job_description": "We are seeking a highly motivated software engineer to join our team.",
+  "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+  "educational_requirements": "Bachelor's degree in Computer Science or related field",
+  "experiences": "3+ years of experience in software engineering",
+  "contact_info": {
+    "phone": "01687-000000",
+    "email": "info@mail.com",
+    "address": "Jamuna Future Park, Dhaka"
+  }
+}

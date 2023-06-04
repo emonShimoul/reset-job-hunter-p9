@@ -1,0 +1,19 @@
+{
+  "id": 4,
+  "company_logo": "https://i.ibb.co/PYkvq3V/netflix.png",
+  "company_name": "Netflix",
+  "job_title": "Content Writer",
+  "job_place": "Remote",
+  "location": "Khulna",
+  "job_type": "Full Time",
+  "salary": "100K - 150K",
+  "job_description": "We are looking to hire a dedicated content writer to create content for blogs, articles, product descriptions, social media, and the company website. The content writer's responsibilities include evaluating analytics to adjust content as needed, regularly updating the company's website, and promoting the company blog by pitching articles to various third-party platforms. You should also be able to follow editorial guidelines when creating content. To be successful as a content writer, you should keep abreast of the latest SEO techniques. Ultimately, a top-performing Content Writer should be able to contribute to the development of strategies that will increase reader engagement.",
+  "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+  "educational_requirements": "Bachelor's degree in Computer Science or related field",
+  "experiences": "5+ years of experience in related field",
+  "contact_info": {
+    "phone": "01681-777777",
+    "email": "info@netflix.com",
+    "address": "Russia"
+  }
+}

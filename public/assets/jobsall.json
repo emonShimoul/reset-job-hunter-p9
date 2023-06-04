@@ -1,0 +1,156 @@
+{
+  "job_postings": [
+    {
+      "id": 1,
+      "company_logo": "https://i.ibb.co/VvV24jr/careerhub.png",
+      "company_name": "Career Hub",
+      "job_title": "Software Engineer",
+      "job_place": "On Site",
+      "location": "USA",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "We are looking for a skilled software engineer who, along with our excellent software development team, will be responsible for working on projects that are currently being developed on by our company. Duties will include but are not limited to developing and directing software system validation and testing methods, as well as directing our software programming initiatives. You will also be working closely with clients and cross-functional departments to communicate project statuses and proposals.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "10+ years of experience in software engineering",
+      "contact_info": {
+        "phone": "01687-000000",
+        "email": "info@careerhub.com",
+        "address": "USA"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "https://i.ibb.co/yd09dz9/google.png",
+      "company_name": "Google",
+      "job_title": "Web Developer",
+      "job_place": "Remote",
+      "location": "California",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "We are looking for a skilled web developer who will be responsible for developing and/or designing websites for our company. You will be working alongside a team of other developers in creating, maintaining, and updating our websites. In order for you to succeed in this role, you will need to be proficient in JavaScript, HTML, CSS, and have solid knowledge and experience in programming applications.",
+      "job_responsibility": "Website and software application designing, building, or maintaining. Using scripting or authoring languages, management tools, content creation tools, applications, and digital media. Conferring with teams to resolve conflicts, prioritize needs, develop content criteria, or choose solutions. Developing or validating test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types. Maintaining an understanding of the latest Web applications and programming practices through education, study, and participation in conferences, workshops, and groups.",
+      "educational_requirements": "Bachelor's degree in Web development or related field, or relevant experience.",
+      "experiences": "8+ years of experience in web developer",
+      "contact_info": {
+        "phone": "01671-222222",
+        "email": "info@gmail.com",
+        "address": "California"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "https://i.ibb.co/LQQRmq0/microsoft.png",
+      "company_name": "Microsoft",
+      "job_title": "Graphics Designer",
+      "job_place": "On Site",
+      "location": "Canada",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "The Graphic Designer job description includes the entire process of defining requirements, visualizing and creating graphics including illustrations, logos, layouts and photos. You'll be the one to shape the visual aspects of websites, books, magazines, product packaging, exhibitions and more. Your graphics should capture the attention of those who see them and communicate the right message. For this, you need to have a creative flair and a strong ability to translate requirements into design. If you can communicate well and work methodically as part of a team, we'd like to meet you.",
+      "job_responsibility": "Study design briefs and determine requirements Schedule projects and define budget constraints Conceptualize visuals based on requirements Prepare rough drafts and present ideas Develop illustrations, logos and other designs using software or by hand Use the appropriate colors and layouts for each graphic Work with copywriters and creative director to produce final design Test graphics across various media Amend designs after feedback Ensure final graphics and layouts are visually appealing and on-brand.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "7+ years of experience in graphics designer",
+      "contact_info": {
+        "phone": "01687-111111",
+        "email": "info@microsoft.com",
+        "address": "Canada"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "https://i.ibb.co/PYkvq3V/netflix.png",
+      "company_name": "Netflix",
+      "job_title": "Content Writer",
+      "job_place": "Remote",
+      "location": "Khulna",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "We are looking to hire a dedicated content writer to create content for blogs, articles, product descriptions, social media, and the company website. The content writer's responsibilities include evaluating analytics to adjust content as needed, regularly updating the company's website, and promoting the company blog by pitching articles to various third-party platforms. You should also be able to follow editorial guidelines when creating content. To be successful as a content writer, you should keep abreast of the latest SEO techniques. Ultimately, a top-performing Content Writer should be able to contribute to the development of strategies that will increase reader engagement.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "5+ years of experience in related field",
+      "contact_info": {
+        "phone": "01681-777777",
+        "email": "info@netflix.com",
+        "address": "Russia"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "https://i.ibb.co/mtdnnwh/tesla.png",
+      "company_name": "Tesla",
+      "job_title": "Marketing Officer",
+      "job_place": "On Site",
+      "location": "Dhaka",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "We are seeking a highly motivated software engineer to join our team.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software engineering",
+      "contact_info": {
+        "phone": "01687-000000",
+        "email": "info@mail.com",
+        "address": "Jamuna Future Park, Dhaka"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "https://i.ibb.co/SVcJ3H1/Yahoo-Logo-big.png",
+      "company_name": "Yahoo",
+      "job_title": "Software Engineer",
+      "job_place": "Remote",
+      "location": "Khulna",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "We are seeking a highly motivated software engineer to join our team.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software engineering",
+      "contact_info": {
+        "phone": "01687-000000",
+        "email": "info@mail.com",
+        "address": "03 No. Abashik Area, Sonadanga, Khulna"
+      }
+    },
+    {
+      "id": 7,
+      "company_logo": "https://i.ibb.co/WpPzFSk/youtube.jpg",
+      "company_name": "Youtube",
+      "job_title": "Digital Marketer",
+      "job_place": "On Site",
+      "location": "Khulna",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "We are seeking a highly motivated software engineer to join our team.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software engineering",
+      "contact_info": {
+        "phone": "01687-000000",
+        "email": "info@mail.com",
+        "address": "03 No. Abashik Area, Sonadanga, Khulna"
+      }
+    },
+    {
+      "id": 8,
+      "company_logo": "https://i.ibb.co/30nTTrM/airbnb.png",
+      "company_name": "Airbnb",
+      "job_title": "Data Entry Operator",
+      "job_place": "On Site",
+      "location": "Khulna",
+      "job_type": "Full Time",
+      "salary": "100K - 150K",
+      "job_description": "We are seeking a highly motivated software engineer to join our team.",
+      "job_responsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software engineering",
+      "contact_info": {
+        "phone": "01687-000000",
+        "email": "info@mail.com",
+        "address": "03 No. Abashik Area, Sonadanga, Khulna"
+      }
+    }
+  ]
+}

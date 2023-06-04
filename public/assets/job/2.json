@@ -1,0 +1,19 @@
+{
+  "id": 2,
+  "company_logo": "https://i.ibb.co/yd09dz9/google.png",
+  "company_name": "Google",
+  "job_title": "Web Developer",
+  "job_place": "Remote",
+  "location": "California",
+  "job_type": "Full Time",
+  "salary": "100K - 150K",
+  "job_description": "We are looking for a skilled web developer who will be responsible for developing and/or designing websites for our company. You will be working alongside a team of other developers in creating, maintaining, and updating our websites. In order for you to succeed in this role, you will need to be proficient in JavaScript, HTML, CSS, and have solid knowledge and experience in programming applications.",
+  "job_responsibility": "Website and software application designing, building, or maintaining. Using scripting or authoring languages, management tools, content creation tools, applications, and digital media. Conferring with teams to resolve conflicts, prioritize needs, develop content criteria, or choose solutions. Developing or validating test routines and schedules to ensure that test cases mimic external interfaces and address all browser and device types. Maintaining an understanding of the latest Web applications and programming practices through education, study, and participation in conferences, workshops, and groups.",
+  "educational_requirements": "Bachelor's degree in Web development or related field, or relevant experience.",
+  "experiences": "8+ years of experience in web developer",
+  "contact_info": {
+    "phone": "01671-222222",
+    "email": "info@gmail.com",
+    "address": "California"
+  }
+}
